@@ -7,7 +7,7 @@ secs_old.rb
 =end
 
 hours_in_year = 365 * 24
-puts "\nThere are #{hours_in_year} seconds, in a year!\n"
+puts "\nThere are #{hours_in_year} minutes, in a year!\n"
 
 min_in_decade = 10 * 365 * 24 * 60 * 10
 puts "There are #{min_in_decade} minutes, in a decade!\n"
